@@ -1,8 +1,8 @@
-# Cosmic_Installer
+# Cosmic_OverlayV1
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 NOT COMPATIBLE WITH ORIGINTRAI NODE V5 MULTICHAIN.
 
-The Cosmic Installer is a general purpose tool used to streamline the interaction between an OriginTrail DKG node.
+The Cosmic Overlay is a general purpose tool used to streamline the interaction between an OriginTrail DKG node.
 <br><br>
 Before running the installer, please see the instructions below and <b>requirements</b> below.
 <br>
